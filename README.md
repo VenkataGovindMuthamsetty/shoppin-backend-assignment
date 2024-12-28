@@ -31,4 +31,4 @@ web-crawler/
 ## Run the crawler: 
 node src/crawler.js
 
-## Git hub repo - https://github.com/avinash-18-art/shoppin-backend-assignment.git
+## Git hub repo - https://github.com/VenkataGovindMuthamsetty/shoppin-backend-assignment.git
